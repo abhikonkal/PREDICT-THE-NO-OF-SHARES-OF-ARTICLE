@@ -1,0 +1,2 @@
+# PREDICT-THE-NO-OF-SHARES-OF-ARTICLE
+Mashable (www.mashable.com) is a global, multi-platform media and entertainment company. Powered by its proprietary technology. Mashable collected data of 40,000 articles. We use Decision tree Regressor to predict the shares naïve decision tree depth is found by checking the R2 score of each depth. Using PCA to compress the dimensions of the data while maintaining its variance at 90-95%. Finally, Boosting the Decision Tree with Ada Boost Regression.
